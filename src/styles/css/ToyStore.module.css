@@ -1,0 +1,66 @@
+.toy_store_section {
+  padding: 50px 0;
+}
+
+.toys_text h4 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #1a5093;
+}
+
+.toys_text p {
+  font-size: 16px;
+  color: #333;
+  line-height: 1.5;
+}
+.nami_toys_toys_store {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 70px;
+}
+
+.toys_text h4 {
+    color: #000;
+    font-weight: 600;
+    font-family: "Libre Franklin";
+    font-size: 28px;
+}
+
+.img_toys_title {
+    margin-top: -85px;
+}
+.toys_text a:hover {
+    --bs-link-color-rgb: var(--bs-link-hover-color-rgb);
+}
+
+.toys_text a {
+  color: #000;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: "Libre Franklin";
+  margin-top: 10px;
+  font-size: 28px;
+  display: inline-block;
+}
+
+.img_toys_titles {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.img_toys_title {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .all-toys {
+    flex-direction: column;
+  }
+
+  .toys_text {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+}

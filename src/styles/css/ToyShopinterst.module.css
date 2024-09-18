@@ -1,0 +1,85 @@
+.play_role_title {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.title_access {
+    background-color: #f5f7f8;
+    padding: 10px;
+}
+.kit_down p {
+    font-size: 14px;
+    color: #000;
+    font-family: "Nunito";
+    font-weight: 500;
+}
+
+
+.play_role_title {
+    background-color: #fcf1f1;
+    padding: 30px;
+    border-radius: 16px;
+}
+
+.buttton .ex_btn {
+    background: #CC0C39;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: white;
+}
+.buttton .ex_btn1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #353535;
+    text-decoration: none;
+}
+.buttton .ex_btn2 {
+    font-size: 24px;
+    font-weight: 400;
+    color: #353535;
+    text-decoration: none;
+}
+
+.list_items ul li a {
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Nunito';
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
+.shop_by_title {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.list_items ul li .active {
+    background-color: #fda000;
+}
+
+
+
+.list_items ul li a {
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Nunito';
+    font-weight: 600;
+    font-size: 16px;
+}
+.list_items ul li {
+    list-style: none; 
+    border: 1px solid #e7e7e7;
+    border-radius: 30px;
+    padding: 5px 10px;
+}
+
+.shop_by_title h2 {
+    color: #1a5093;
+    font-size: 40px;
+    font-weight: 700;
+    /* font-family: "Comfortaa"; */
+}
+
+

@@ -1,0 +1,11 @@
+.slideContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .slideImage {
+    padding: 1rem;
+    max-width: 200px;
+  }
